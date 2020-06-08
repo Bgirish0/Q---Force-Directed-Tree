@@ -12,5 +12,6 @@ To create a html tootltip use the following:<br />
 
 ![alt text](https://github.com/Bgirish0/Q---Force-Directed-Tree/raw/master/Tooltip.PNG?raw=true)
 
-For the center text use the core tab.
+For the center node text and label use the core tab.
 
+![alt text](https://github.com/Bgirish0/Q---Force-Directed-Tree/raw/master/Core.PNG?raw=true)
