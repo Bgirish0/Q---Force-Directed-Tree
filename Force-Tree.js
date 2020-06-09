@@ -34,7 +34,7 @@ function ( qlik,$,css,def,ini) {
 
 		t1=layout.qHyperCube.qDataPages[0].qMatrix;
 		unique=[];
-		window.t1=t1;
+		
 		for (var i = 0; i < t1.length; i++) {
    if(unique.includes(t1[i][0].qText)==false){unique.push(t1[i][0].qText)}
 }
